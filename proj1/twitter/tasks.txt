@@ -1,0 +1,5 @@
+{"command": "ADD", "id": 1, "body": "just setting up my twttr", "timestamp": 43242423}
+{"command": "ADD", "id": 2, "body": "just setting up my twttr", "timestamp": 43242424}
+{"command": "ADD", "id": 3, "body": "just setting up my twttr", "timestamp": 43242425}
+{"command": "FEED", "id": 4}
+{"command": "DONE"}
